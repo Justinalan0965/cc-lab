@@ -97,11 +97,11 @@ Flask==3.0.0
 
 
 
-commands run on the main directory for deploying your app into Google cloud app engine:
+commands to run on the main directory for deploying your app into Google cloud app engine:
 
 gcloud app deploy - to deploy your app to cloud
 
-gcloud app browse - to display the deployed apps
+gcloud app browse - to display the deployed apps(links)
 
 
 
